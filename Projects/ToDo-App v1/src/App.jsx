@@ -1,8 +1,8 @@
 import "./App.css";
-import NameApp from "./NameApp";
-import AddTodos from "./AddTodos";
-import TodoItem1 from "./TodoItem1";
-import TodoItem2 from "./TodoItem2";
+import NameApp from "./Components/NameApp";
+import AddTodos from "./Components/AddTodos";
+import TodoItem1 from "./Components/TodoItem1";
+import TodoItem2 from "./Components/TodoItem2";
 function App() {
   return (
     <center>
